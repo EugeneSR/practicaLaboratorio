@@ -3,7 +3,7 @@ test('task 1: Valida si el texto es palindrome', () => {
     //TDD 
     const input = "ANA LAVA LANA" ;  //Texto para validar
  
-    //actual
+    //actual input--> Valida si es palindromo
     const actual = TaskPalindrome.esPalindromo(input);
     
 
