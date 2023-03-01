@@ -4,7 +4,7 @@ export class Animal {
     constructor(public name: string){}
 
     move() {
-      console.log('Moving...!!!');
+      console.log('Moviendose..!!!');
     }
 
     greeting() {
@@ -12,7 +12,7 @@ export class Animal {
     }
 }
 
-//No Puedo heredar 2 veces
+//*--No se puede heredar 2 veces
 export class Cat extends Animal {}
 export class Dog extends Animal {
   owner: string;

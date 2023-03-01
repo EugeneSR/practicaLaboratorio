@@ -17,4 +17,5 @@ const myDate = new MyDate(1995, 2, 15);
 console.log(myDate);
 
 
+/* Funcion Flecha */
 const arrwFunc = () => {};

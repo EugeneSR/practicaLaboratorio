@@ -14,5 +14,7 @@ class MyDate2 {
 }
 
 const myDate2 = new MyDate2(1995, 2, 15);
-//const myDate = new MyDate();
+
 console.log(myDate2.printdate());
+
+//const myDate = new MyDate();

@@ -1,9 +1,9 @@
-// Math es un ejemplo de clase statica
+//----- Math es un ejemplo de clase statica
 console.log(Math.abs(12));
 console.log(Math.max(1, 2, 3, 8, 5, 9));
 
 class MyMathv2 {
-  //El uso de readonly restringe que la variable se edite
+  //-----El uso de readonly restringe que la variable se edite
   static readonly PI = 3.14;
   static CONSTANTE = 99;
 

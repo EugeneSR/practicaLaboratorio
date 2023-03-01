@@ -3,6 +3,6 @@
 
 import {createUser} from './13-function-objects';
 
-createUser({name: '1515'});
+createUser({name: 'Juan'});
 
 export const exportThisVar = "exporting";

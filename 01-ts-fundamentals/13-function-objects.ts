@@ -1,4 +1,5 @@
-// Podemos mandar objetos parametrizados como parametro a una funcion
+/*---Se pueden mandar objetos parametrizados como parametro a una funcion*/
+
 type UserFormat = {
     name: string, 
     lastname?: string, 

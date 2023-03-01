@@ -1,4 +1,4 @@
-// OOP abstraccion, herencia, accesibilidad, polimorfismo 
+/*--OOP abstraccion, herencia, accesibilidad, polimorfismo */
 
 class MyDategetter {
     private year: number;

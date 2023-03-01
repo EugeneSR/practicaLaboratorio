@@ -1,4 +1,4 @@
-// Nos permiten crear tipo custom de tipos de variable
+/*----Nos permiten crear tipo custom de tipos de variable-----*/
 type Custom = number | boolean[] | string;
 
 let variableX: Custom = 15 ;

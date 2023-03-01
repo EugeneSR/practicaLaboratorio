@@ -24,7 +24,7 @@ export class Dog extends Animal {
     this.name;
   }
 
-  //Sobre escribiendo funciones
+  /*--Sobre escribiendo funciones*/
   move() {
     console.log('Moving as a Dog');
     super.move();
@@ -36,6 +36,5 @@ const dog1 = new Dog('Boby', 'mike');
 console.log(dog1.owner);
 console.log(dog1.woof);
 console.log(dog1.move());
-// no se puede modificar
-//dog1.name = 'Chapi';
+
 

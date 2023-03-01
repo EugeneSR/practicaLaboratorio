@@ -1,15 +1,16 @@
-// Interface no tiene una implementacion da comportamiento
+//----- Interface no tiene una implementacion da comportamiento----
 export interface Driver {
 
-  //Atributos
+  //---Atributos
   database: string;
   password: string;
   port: string;
 
-  //metodos
+  //----metodos
   connect(): void;
   disconnect(): void;
   isConnected(name: string): boolean;
+  //----
 }
 
 //const driverX = new Driver();

@@ -22,7 +22,7 @@ const numbers = [8, 9, 6, 88];
 //     console.log(num);    
 // }
 
-for(let num of numbers) {
-    console.log(num);    
+for(let numb of numbers) {
+    console.log(numb);    
 }
 

@@ -9,9 +9,9 @@ if(true) {
 const tern = (7 > 1) ? console.log("TRUE ") : false;
 console.log(tern);
 
-// Switch case TAREA DIAS de la semana
+// Switch case TAREA DIAS de la semana Hacer Ojo -----
 
-// "1" ==> "Lunes"
+// "1" ==> "Lunes, martes, miercoles"
 let day: number= 2;
 
 switch (day) {

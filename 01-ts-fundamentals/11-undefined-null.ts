@@ -1,9 +1,9 @@
-// undefined per default TS lo retorna
+/*-----undefined por default TS lo retorna*/
 function hello() {
 
 }
-let undefiVar = hello(); 
-console.log(undefiVar);
+let undefinedVar = hello(); 
+console.log(undefinedVar);
 
-//null  tiene ser usado explicitamente
+//*----null  tiene ser usado explicitamente---*/
 let nullVariable: null =  null;

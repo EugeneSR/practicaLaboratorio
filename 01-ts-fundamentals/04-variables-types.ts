@@ -1,16 +1,16 @@
-// numbers
+// numeros---------
 let varYY = 15;
 varYY.toFixed();
 
 
-// Operaciones Arithmeticas
-const sum = 15 + 1;
+// Operaciones ---------------
+const sum = 15 + 44;
 console.log(sum);
 
-const rest = 15 - 9;
+const rest = 15 - 2;
 console.log(rest);
 
-const mult = 15 * 2;
+const mult = 15 * 22;
 console.log(mult);
 
 const div = 15 / 4;
@@ -19,7 +19,7 @@ console.log(div);
 const mod = 3 % 2;
 console.log(mod);
 
-// boolean < > == ===
+// Boolean < > == === 
 const var1X = false;
 const varcond = (15 > 7);
 console.log((15 > 7));
@@ -31,12 +31,12 @@ const str2 = '112';
 const str3 = `a
 b
    c
-      d
+        d
 f ${str2}`;
 console.log(str3);str2
 
 
-const reason = 'BOB ' + "Smith";
+const reason = 'BOB ' + "Manson";
 const presentar = `hola mi nombre es ${reason}`;
 //console.log(presentar);
 

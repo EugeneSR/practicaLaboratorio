@@ -1,4 +1,4 @@
-// OOP abstraccion, herencia, accesibilidad, polimorfismo 
+/** OOP abstraccion, herencia, accesibilidad, polimorfismo */ 
 
 class MyDate3 {
     public year: number;
